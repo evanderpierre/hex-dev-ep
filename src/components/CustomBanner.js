@@ -10,7 +10,10 @@ function CustomBanner() {
 return (
 
     <div className="customBanner">
-        <h3>How the best data teams do their best work</h3>
+<div className="subHeaderContainer">
+<h3>How the best data teams do their best work</h3>
+
+</div>
         <div className="imgRow">
 <ul>
 <li><img src= {anthropic} alt="Anthropic" /></li>

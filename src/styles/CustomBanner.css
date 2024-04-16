@@ -6,3 +6,49 @@
     font-size: 14px;
     letter-spacing: 0px;
 }
+
+.customBanner .imgRow ul {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    gap: 20px;
+    padding: 0;
+    list-style-type: none;
+}
+
+.imgRow {
+    display: flex;
+    justify-content: center;  
+    align-items: center; 
+    
+}
+
+.customBanner .imgRow ul li {
+    padding: 0px 8px;
+    height: 100%;
+    
+}
+
+.subHeaderContainer {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    margin-bottom: 22px;
+    width: 100%;
+    max-width: 1165px;
+    position: relative;
+    padding: 0px 30px;
+    text-align: center;
+}
+
+.customBanner {
+    display: flex;
+    flex-direction: column;
+    padding: 38px 0px;
+}
