@@ -46,6 +46,7 @@ p {
 }
 .button {
     position: relative;
+    text-decoration: none;
     flex: 0 0 auto;
     display: inline-table;
     height: 48px;
