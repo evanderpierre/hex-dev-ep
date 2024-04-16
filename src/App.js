@@ -1,11 +1,10 @@
-import './App.css';
+import './App.css';  // Assuming it's a CSS file
 import PageHeader from './components/PageHeader';
 
 function App() {
   return (
-    <div>
+    <div className='navy-bg'>
       <PageHeader />
-      <h1>Hi</h1>
     </div>
   );
 }
