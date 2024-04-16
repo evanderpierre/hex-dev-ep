@@ -1,5 +1,4 @@
 import React from "react";
-import pattern from "../images/backgroundimages/pattern.svg"
 import '../styles/Pattern.css'
 
 function Pattern(){
