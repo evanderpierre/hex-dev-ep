@@ -1,0 +1,11 @@
+.DataViz {
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    transform: translateX(-60%);
+    height: auto;
+    pointer-events: none;
+    z-index: 0;
+    will-change: animation;
+
+}

@@ -17,6 +17,7 @@ section {
     -webkit-box-align: center;
     align-items: center;
     padding: 70px 40px 60px;
+    position: relative;
 }
 
 h1  {
