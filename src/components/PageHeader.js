@@ -1,6 +1,6 @@
 import React from 'react';
 
-function pageHeader() {
+function PageHeader() {
   return (
     <section>
       <h2>Our Mission</h2>
@@ -9,4 +9,4 @@ function pageHeader() {
   );
 }
 
-export default pageHeader;
+export default PageHeader;

@@ -1,14 +1,13 @@
-// import logo from './logo.svg';
 import './App.css';
-import pageHeader from './components/pageHeader';
+import PageHeader from './components/PageHeader';
 
 function App() {
   return (
-<div>
-<pageHeader/>
-<h1>Hi</h1>
-</div>
-    );
+    <div>
+      <PageHeader />
+      <h1>Hi</h1>
+    </div>
+  );
 }
 
 export default App;
