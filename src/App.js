@@ -5,7 +5,7 @@ import PageHeader from './components/PageHeader';
 
 function App() {
   return (
-    <div className='navy-bg'>
+    <div>
       <Pattern />
       <PageHeader />
       <CustomBanner />
