@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <Pattern />
-      <PageHeader />
+<PageHeader />
       <CustomBanner />
     </div>
   );
