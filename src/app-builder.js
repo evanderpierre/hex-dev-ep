@@ -4,11 +4,13 @@ import './index.css';
 import App from '../App.js';  // Assuming it's a JS file, '.js' extension is optional
 import reportWebVitals from '../reportWebVitals.js';
 import PageHeader from '../components/pageHeader.js';
+import CustomBanner from './components/CustomBanner.js';
+import AppBuilderElements from './AppBuilderElements.js';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <PageHeader />
+    <AppBuilderElements />
   </React.StrictMode>
 );
 
