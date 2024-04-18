@@ -61,4 +61,7 @@ p {
     transition: background-color 0.25s cubic-bezier(0.25, 0.1, 0.25, 1) 0s, border-color 0.25s cubic-bezier(0.25, 0.1, 0.25, 1) 0s;
     border: 1px solid transparent;
     background: linear-gradient(to right, rgb(1, 1, 27), rgb(1, 1, 27)) padding-box padding-box, linear-gradient(45deg, rgb(245, 192, 192), rgb(173, 142, 182)) border-box border-box;
+    justify-content: center;
+    display: flex;
+    align-items: center;
 }
